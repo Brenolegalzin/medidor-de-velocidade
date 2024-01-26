@@ -1,1 +1,0 @@
-# medidor-de-velocidade
